@@ -1,0 +1,39 @@
+Processing 265 posts
+Fields [ 
+  'label',
+  'organization_id',
+  'role',
+  'cargonominal',
+  'cargotipo',
+  'cargoclase',
+  'id',
+  'duracioncargo' ]
+
+Processing 69 organizations
+Fields [ 'name', 'id', 'classification' ]
+
+Processing 3752 memberships
+Fields [ 'label',
+  'role',
+  'person_id',
+  'organization_id',
+  'post_id',
+  'cargonominal',
+  'start_date',
+  'end_date',
+  'id',
+  'end_date_accuracy',
+  'start_date_accuracy' ]
+
+Processing 2440 persons
+
+Fields [ 
+
+'name', 
+'id', 
+'image', 
+'birth_date', 
+'sources', 
+'summary', 
+
+]

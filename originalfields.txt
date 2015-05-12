@@ -1,0 +1,68 @@
+Loaded 265 posts             
+[ 'html_url',                
+  'url',                     
+  'label',                   
+  'organization_id',         
+  'role',                    
+  'cargonominal',            
+  'duracioncargo',           
+  'cargotipo',               
+  'cargoclase',              
+  'id',                      
+  'images',                  
+  'memberships',             
+  'links',                   
+  'contact_details' ]        
+Loaded 69 organizations      
+[ 'html_url',                
+  'url',                     
+  'name',                    
+  'id',                      
+  'images',                  
+  'posts',                   
+  'memberships',             
+  'links',                   
+  'contact_details',         
+  'identifiers',             
+  'other_names',             
+  'classification',          
+  'dissolution_date',        
+  'founding_date',           
+  'parent_id' ]              
+Loaded 3752 memberships      
+[ 'html_url',                
+  'url',                     
+  'label',                   
+  'role',                    
+  'person_id',               
+  'organization_id',         
+  'post_id',                 
+  'cargonominal',            
+  'start_date',              
+  'end_date',                
+  'id',                      
+  'images',                  
+  'links',                   
+  'contact_details',         
+  'end_date_accuracy',       
+  'start_date_accuracy',     
+  'area' ]                   
+
+Loaded 2440 persons          
+[ 
+
+  'name',                    
+  'id',                      
+  'image',                   
+  'birth_date',              
+  'death_date',              
+  'summary',                 
+  'membership-area',         
+  'organization',            
+  'sources',                 
+  'initials',                
+  'start_date',              
+  'end_date',                
+  'founding_date',           
+  'dissolution_date' ]       
+                             
